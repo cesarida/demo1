@@ -1,1 +1,2 @@
+VERSION 2.0.0
 Just an example of text file in github.
